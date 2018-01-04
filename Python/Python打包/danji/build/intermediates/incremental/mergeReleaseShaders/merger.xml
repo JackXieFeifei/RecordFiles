@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/cuigy/Desktop/v6.5.6.0/Android/danji/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build-types/release/shaders"/></dataSet></merger>

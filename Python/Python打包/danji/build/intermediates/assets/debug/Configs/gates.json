@@ -1,0 +1,8 @@
+{
+    "gates":[
+             {"gate":0,"level":10,"name":"万里长城"},{"gate":1,"level":12,"name":"避暑山庄"},
+             {"gate":2,"level":15,"name":"沙滩风情"},{"gate":3,"level":10,"name":"冰雪世界"},
+             {"gate":4,"level":12,"name":"荒漠探险"},{"gate":5,"level":15,"name":"拉斯维加斯"},
+             {"gate":6,"level":10,"name":"神秘海岛"}
+    ]
+}

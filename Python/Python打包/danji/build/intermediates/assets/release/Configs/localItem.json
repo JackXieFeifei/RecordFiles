@@ -1,0 +1,57 @@
+{
+    "Item":[
+            {
+            "ItemID":1,
+            "ItemName":"ScoreCard",
+            "ItemDescription":"使用后,整关获得积分可乘以2",
+            "ItemIconName":"Item_ScoreCard.png"            },
+            {
+            "ItemID":2,
+            "ItemName":"Note_cards",
+            "ItemDescription":"使用后,整关可使用记牌器功能",
+            "ItemIconName":"Item_notecards.png"            },
+            {
+            "ItemID":3,
+            "ItemName":"rocket",
+            "ItemDescription":"使用后,整关所发牌里均有火箭",
+            "ItemIconName":"Item_rocket.png"            },
+            {
+            "ItemID":4,
+            "ItemName":"ExperienceCard",
+            "ItemDescription":"使用后,整关获得经验可乘以2",
+            "ItemIconName":"Item_ExperienceCard.png"            },
+            {
+            "ItemID":5,
+            "ItemName":"BombCard",
+            "ItemDescription":"使用后,整关所发牌里均有炸弹",
+            "ItemIconName":"Item_BombCard.png"            },
+            {
+            "ItemID":6,
+            "ItemName":"SortCard",
+            "ItemDescription":"此关boss释放了技能乱序,是否使用排序卡?",
+            "ItemIconName":"Item_SortCard.png"            },
+            {
+            "ItemID":7,
+            "ItemName":"BanHand_Card",
+            "ItemDescription":"使用后,可禁止其他玩家这一轮出牌",
+            "ItemIconName":"Item_banhand_card.png"            },
+            {
+            "ItemID":8,
+            "ItemName":"GoodCard",
+            "ItemDescription":"使用后,可获得较好的牌型提高胜率",
+            "ItemIconName":"Item_goodcard.png"            },
+            {
+            "ItemID":9,
+            "ItemName":"RevivalCard",
+            "ItemDescription":"连胜在望,是否复活此局?"
+            },
+            {
+            "ItemID":10,
+            "ItemName":"ExtendRoundCard",
+            "ItemDescription":"局数已耗尽,是否延长5局?"      },
+            {
+            "ItemID":11,
+            "ItemName":"ExtendTimeCard",
+            "ItemDescription":"时间已耗尽,是否延长5分钟?"            }
+            ]
+}

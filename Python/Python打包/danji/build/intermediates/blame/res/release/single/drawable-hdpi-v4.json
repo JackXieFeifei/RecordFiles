@@ -1,0 +1,954 @@
+[
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_piccode_refresh.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_piccode_refresh.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_compact_close.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_compact_close.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_x_button_clicked.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_x_button_clicked.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_wx.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_wx.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_member_heart.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_member_heart.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_gamehall.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_gamehall.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_download_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_download_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_update_btn_check_off_holo_light.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_padview_one_icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_padview_one_icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_center_look.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_center_look.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_new_tip.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_new_tip.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_phonenumber_icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_phonenumber_icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_back_quick_msg.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_back_quick_msg.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_grey_1.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_grey_1.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_title_arrow.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_title_arrow.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_large_gallery_failed.jpg",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_large_gallery_failed.jpg"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_pro.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_pro.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_textview.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_textview.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_arrow_little.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_arrow_little.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_browse_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_browse_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_container_banner_background_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_container_banner_background_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_x_button_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_x_button_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_standalone_bg.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_standalone_bg.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_back.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_back.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_quick_get.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_quick_get.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_center_edit.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_center_edit.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_icon_background_clicked.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_icon_background_clicked.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_center_about.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_center_about.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_padview_pad_ic.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_padview_pad_ic.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_shape_pressed.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_shape_pressed.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_greenbg_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_greenbg_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_update_close_bg_normal.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_share_sms.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_share_sms.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_back_click.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_back_click.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_back_button_normal.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_back_button_normal.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/egame_refresh_button_normal.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/egame_refresh_button_normal.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_startview_bg_land.jpg",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_startview_bg_land.jpg"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_sound_on.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_sound_on.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_kaijuan_bg.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_kaijuan_bg.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_progressbar.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_progressbar.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_hot.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_hot.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_share_weixin_timeline.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_share_weixin_timeline.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_link_radius_shape.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_link_radius_shape.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_bg_clicked.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_bg_clicked.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_padview_two_icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_padview_two_icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_grey_list.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_grey_list.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_start_cmcc.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_start_cmcc.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_share_qq.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_share_qq.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_paydesshape.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_paydesshape.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_recommend_hall.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_recommend_hall.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_new_tip_bg.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_new_tip_bg.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_more_bottom.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_more_bottom.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_addpayp.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_addpayp.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_horizontal_divider.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_horizontal_divider.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_and_icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_and_icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_contract_press.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_contract_press.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_edit_del.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_edit_del.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_start_login.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_start_login.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_icon_rightextend.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_icon_rightextend.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_grey_7.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_grey_7.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_exit_share.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_exit_share.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_highlight_banner_background_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_highlight_banner_background_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_act.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_act.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_highlight_item_bg.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_highlight_item_bg.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_banner_grey.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_banner_grey.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_darkbg.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_darkbg.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_alipay_icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_alipay_icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_back.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_back.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_detail.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_detail.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_default_icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_default_icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_bg.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_bg.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_list_item_text_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_list_item_text_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_x_button.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_x_button.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_member_yellow.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_member_yellow.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_recommend_flow_two.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_recommend_flow_two.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_browse_clicked.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_browse_clicked.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_center_save.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_center_save.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_shop_cancle.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_shop_cancle.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_highlight_banner_bg.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_highlight_banner_bg.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_grey_5.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_grey_5.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_normal_banner_background_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_normal_banner_background_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_back_button_selected.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_back_button_selected.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_center_transaction_details.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_center_transaction_details.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_highlight_footview_dashed_line.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_highlight_footview_dashed_line.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_logo_cmcc.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_logo_cmcc.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_icon_background_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_icon_background_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_icon_extend.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_icon_extend.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_animation_cmcc.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_animation_cmcc.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_loading.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_loading.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_recom.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_recom.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_center_recharge.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_center_recharge.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_title.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_title.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_back_title.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_back_title.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_phone_clicked.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_phone_clicked.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_pay_unchecked.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_pay_unchecked.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_phone.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_phone.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_recommend_flow_one.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_recommend_flow_one.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_more_top.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_more_top.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_mo9_icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_mo9_icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_drag_hide.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_drag_hide.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_button_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_button_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_notification_icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_notification_icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_start_game.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_start_game.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_button_download.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_button_download.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_highlight_item_bg_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_highlight_item_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_arrow_text.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_arrow_text.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_grey_0.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_grey_0.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_selector_cancel.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_selector_cancel.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_radius_shape.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_radius_shape.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_center_safely.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_center_safely.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_animation_game.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_animation_game.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_recommend_titile_bg.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_recommend_titile_bg.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_vertical_divider.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_vertical_divider.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_download_dialog_close_clicked.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_download_dialog_close_clicked.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_payback.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_payback.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_piccode.jpg",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_piccode.jpg"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_mall_title.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_mall_title.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_btn_gradient_dark_grey.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_btn_gradient_dark_grey.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_download_dialog_close.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_download_dialog_close.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_recommend_flow_third.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_recommend_flow_third.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_selector_back.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_selector_back.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_anim_title.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_anim_title.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_member_green.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_member_green.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/egame_warning_bg.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/egame_warning_bg.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_shop_line.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_shop_line.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_selector_download.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_selector_download.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/push.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/push.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_seek.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_seek.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_open.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_open.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_point_selected.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_point_selected.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_shop_linepr.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_shop_linepr.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_browse.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_browse.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_toast_tip_vertical.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_toast_tip_vertical.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_button_download_click.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_button_download_click.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_blue_v2.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_blue_v2.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_update_close_bg_tap.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_gradient_grey2.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_gradient_grey2.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_detail_bg.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_detail_bg.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_fallshow.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_fallshow.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_gradient_grey.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_gradient_grey.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_window.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_window.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_add_sms.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_add_sms.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_large_gallery_item_bg.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_large_gallery_item_bg.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_grey_2.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_grey_2.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_new_tip_button.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_new_tip_button.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_blue_container.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_blue_container.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_step_unfocus.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_step_unfocus.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_payresult_btsure.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_payresult_btsure.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_arrow_big.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_arrow_big.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_center_gameshare.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_center_gameshare.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_grey_4.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_grey_4.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_animation_and.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_animation_and.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_add_alipay.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_add_alipay.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_default.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_default.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/egame_refresh_button_press.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/egame_refresh_button_press.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_download_dialog_bg.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_download_dialog_bg.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_blue.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_blue.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_sms.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_sms.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_share_weixinfriend.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_share_weixinfriend.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_shape_normal.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_shape_normal.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_gray_stroke.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_gray_stroke.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_update_btn_check_on_holo_light.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_bank_icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_bank_icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_payment_icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_payment_icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_shop_addpt.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_shop_addpt.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_share_sina.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_share_sina.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_icon_background.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_icon_background.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_point_normal.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_point_normal.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_online_service_logo.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_online_service_logo.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_highlight_item_bg_clicked.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_highlight_item_bg_clicked.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_bg_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_paydesone.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_paydesone.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_toast_tip_horizontal.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_toast_tip_horizontal.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_phone_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_phone_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_alipay.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_alipay.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_zhanwei.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_zhanwei.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_download_gradient_grey.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_download_gradient_grey.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_cancle.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_cancle.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_highlight_footview_loading.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_highlight_footview_loading.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_grey.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_grey.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_open_clicked.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_open_clicked.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_dialog_mid.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_dialog_mid.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_loading_seek.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_loading_seek.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_buy.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_buy.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_startview_bg_port.jpg",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_startview_bg_port.jpg"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_hotlb.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_hotlb.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_download_clicked.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_download_clicked.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_compact_logo.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_compact_logo.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_pay_checked.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_pay_checked.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_shop_title.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_shop_title.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_button_cancel_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_button_cancel_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_recharge_sale.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_recharge_sale.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_add_wx.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_add_wx.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_user_center.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_user_center.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_sound_off.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_sound_off.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_center_online_service.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_center_online_service.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_step_focused.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_step_focused.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_button_cancel_click.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_button_cancel_click.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_common_problem_search.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_common_problem_search.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_button_cancel.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_button_cancel.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_conner_blackish_green.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_conner_blackish_green.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_game_service_tel.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_game_service_tel.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_title_exit.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_title_exit.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_more_game.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_more_game.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/egame_usersdk_toast.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/egame_usersdk_toast.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_button_download_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_button_download_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_back_button.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_back_button.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_gradient_grey1.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_gradient_grey1.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/egame_varify.jpg",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/egame_varify.jpg"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_detail365.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_detail365.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_btn_gradient_grey.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_btn_gradient_grey.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_padview_cmss_migu_logo.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_padview_cmss_migu_logo.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_title_logo.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_title_logo.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_back.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_back.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_strock_bg_1.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_strock_bg_1.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_center_help.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_center_help.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_download.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_download.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shadow_bg.9.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shadow_bg.9.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_handler_rc.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_handler_rc.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_start_logo.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_start_logo.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_quicktag.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_quicktag.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_add.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_add.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_seek_bg.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_seek_bg.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_icon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_icon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_loading.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_loading.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_gradient_grey_3.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_gradient_grey_3.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/thransdk_goods_addicon.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/thransdk_goods_addicon.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_shape_conner_green.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_shape_conner_green.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_download_dialog_close_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_download_dialog_close_selector.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/gc_icon_shrink.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/gc_icon_shrink.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_recoright.png",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_recoright.png"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/drawable-hdpi-v4/umeng_xp_ad_action_open_selector.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/drawable-hdpi/umeng_xp_ad_action_open_selector.xml"
+    }
+]

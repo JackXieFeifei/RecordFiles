@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+  <RelativeLayout 
+          android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+      >
+      <WebView 
+           	android:id="@+id/thransdk_dialog_web_webview"
+            android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+    		android:layout_marginTop="10dip"
+          />
+      
+      <Button 
+          	android:id="@+id/thransdk_dialog_web_button_close"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+          	android:background="@drawable/thransdk_close"
+          	android:layout_alignParentRight="true"
+          	android:layout_alignParentTop="true"
+          	android:layout_marginTop="-12dp"
+          	android:layout_marginRight="-12dp"
+          />
+      
+    <ProgressBar android:id="@+id/thransdk_dialog_web_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        />
+
+  </RelativeLayout>
+
+</LinearLayout>

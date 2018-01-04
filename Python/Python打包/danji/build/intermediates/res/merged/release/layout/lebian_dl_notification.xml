@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@android:color/transparent">
+
+    <ImageView
+        android:id="@+id/lebian_note_image"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8.0dip"
+        android:layout_marginRight="10dp" 
+        />
+    
+    <LinearLayout android:id="@+id/lebian_note_progress_layout" 
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:orientation="vertical"
+        android:layout_toRightOf="@id/lebian_note_image"
+  >
+  
+  <RelativeLayout android:id="@+id/lebian_note_progress_text" 
+  android:layout_width="wrap_content"
+  android:layout_height="0dip"
+  android:layout_weight="1"
+  android:orientation="horizontal"
+  >      
+  
+      
+ <TextView android:id="@+id/lebian_note_down_tv" 
+               android:layout_width="wrap_content"
+               android:layout_height="48dip"
+               android:textSize="20sp" 
+               android:layout_alignParentLeft="true"
+        		android:layout_alignParentTop="true"
+               />
+ 
+ <ImageView
+        android:id="@+id/lebian_note_down_stop"
+        android:layout_width="28dip"
+        android:layout_height="28dip"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:paddingLeft="8dip"
+        android:paddingBottom="4dip"
+		android:scaleType="fitCenter"
+         />
+ </RelativeLayout>
+ 
+  <RelativeLayout android:id="@+id/lebian_note_progress_bar" 
+  android:layout_width="wrap_content"
+  android:layout_height="0dip"
+  android:layout_weight="1"
+  android:layout_marginBottom="12dip"
+  android:orientation="horizontal"
+  >
+ 
+      <ImageView
+        android:id="@+id/lebian_note_down_type"
+        android:layout_width="32dip"
+        android:layout_height="32dip"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:scaleType="fitCenter"
+         />
+<ProgressBar android:id="@+id/lebian_note_download_pb"
+             android:layout_width="match_parent" 
+             android:layout_height="wrap_content" 
+             android:layout_toLeftOf="@id/lebian_note_down_type"
+             android:layout_alignParentLeft="true"
+        		android:layout_alignParentBottom="true"
+        		
+             style="?android:attr/progressBarStyleHorizontal"
+             android:layout_gravity="center_vertical"
+             android:paddingBottom="8dip"
+             
+             />
+
+
+</RelativeLayout>
+
+</LinearLayout>
+
+</RelativeLayout>

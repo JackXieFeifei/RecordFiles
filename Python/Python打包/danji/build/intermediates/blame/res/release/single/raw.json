@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/raw/keep.xml",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/raw/keep.xml"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/raw/lebian_releaseid",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/raw/lebian_releaseid"
+    },
+    {
+        "merged": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/build/intermediates/res/merged/release/raw/opening_sound.mp3",
+        "source": "/Users/cuigy/Desktop/v6.5.6.0/Android/danji/res/raw/opening_sound.mp3"
+    }
+]

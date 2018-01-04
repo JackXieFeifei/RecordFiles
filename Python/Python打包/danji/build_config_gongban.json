@@ -1,0 +1,186 @@
+{
+	"actions": [
+        { "remove": "assets" },
+        {
+            "copy": {"from": "../../Resources/iPad", "to": "assets"}
+        },
+        {
+            "remove": "assets/CCBProj"
+        },
+        {
+            "remove": "assets/Icons"
+        },
+        {
+            "remove": "assets/Info.plist"
+        },
+        {
+            "copy": {
+                "from": "resource",
+                "to": "assets"
+            }
+        },
+        {
+            "copy":{
+                "from": "so",
+                "to": "so_backup"
+            }
+        },
+        {
+            "copy": {
+                "from": "channels/$channelname",
+                "to": "."
+            }
+        },
+        {
+            "pre-build": []
+        },
+        {
+            "ndk-build": {
+                "parameter": "NDK_DEBUG=0",
+                "module-path": "../../Libraries:../../Libraries/cocos2dx/platform/third_party/android/prebuilt"
+            }
+        },
+        {
+            "copy": {
+                "from": "so",
+                "to": "libs/armeabi"
+            }
+        },
+        {
+            "remove": "so"
+        },
+        {
+            "rename":{
+                "from": "so_backup",
+                "to": "so"
+            }
+        },
+        {
+            "ant-build": "clean release"
+        },
+        {
+            "rename": {
+                "from": "bin/Game-release.apk",
+                "to": "packages/Landlord_$channelname_$package_$version.apk"
+            }
+        }
+    ],
+    
+    "channels": [
+        {
+            "channel": "nduo"
+        },
+        {
+            "channel": "thran"
+        },
+        {
+            "channel": "open"
+        },
+        {
+            "channel": "kingsoft"
+        },
+        {
+            "channel": "mobile"
+        },
+        {
+            "channel": "third"
+        },
+        {
+            "channel": "16wifi1"
+        },
+        {
+            "channel": "web"
+        },
+        {
+            "channel": "mengkai"
+        },
+        {
+            "channel": "foxac"
+        },
+        {
+            "channel": "pjiao"
+        },
+        {
+            "channel": "ydhall"
+        },
+        {
+            "channel": "qs"
+        },
+        {
+            "channel": "lech"
+        },
+        {
+            "channel": "xiaoju1"
+        },
+        {
+            "channel": "sfkj"
+        },
+        {
+            "channel": "baidu1"
+        },
+        {
+            "channel": "yingyh"
+        },
+        {
+            "channel": "gzhl1"
+        },
+        {
+            "channel": "zjwl"
+        },
+        {
+            "channel": "yunmeng2"
+        },
+        {
+            "channel": "bjql"
+        },
+        {
+            "channel": "lanyu1"
+        },
+        {
+            "channel": "yunmeng1"
+        },
+        {
+            "channel": "xuhang1"
+        },
+        {
+            "channel": "ptyhdr"
+        },
+        {
+            "channel": "tdzyb"
+        },
+        {
+            "channel": "youzij"
+        },
+        {
+            "channel": "glyos-yy"
+        },
+        {
+            "channel": "ldys"
+        },
+        {
+            "channel": "jxwys1"
+        },
+        {
+            "channel": "jxwys2"
+        },
+        {
+            "channel": "youmily"
+        },
+        {
+            "channel": "qiku"
+        }
+	],
+    
+    "prefabs": {
+        "umeng-appkey": [
+            {
+                "replace": {
+                    "path": "AndroidManifest.xml",
+                    "old": "4de4c1a2431fe36b0c0000a2",
+                    "new": "524254be56240b60a6059d20"
+                },
+                "_comment": "修改友盟的app key"
+            }
+        ]
+    }
+}

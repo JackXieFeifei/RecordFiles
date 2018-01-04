@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="149dp"
+    android:orientation="horizontal" 
+
+    >
+
+        <RelativeLayout
+            android:layout_width="300dp"
+            android:layout_height="149dp"
+            android:padding="2dp"
+
+            >
+
+            <LinearLayout
+                android:layout_width="265dp"
+                android:layout_height="114dp"
+                android:layout_centerInParent="true"
+                android:layout_margin="15dp"
+                android:background="@drawable/thransdk_box"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/thran_pay_alipay"
+                    android:layout_width="111dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/thran_alipay_logo"
+                    android:tag="alipay"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/thran_pay_ydbase"
+                    android:layout_width="111dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/thran_ydbase_logo"
+                    android:tag="ydbase"
+                    android:visibility="gone" />
+                <TextView
+                    android:id="@+id/thran_pay_sendsms"
+                    android:layout_width="111dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="7dp"
+                    android:background="@drawable/thran_ppbank_logo"
+                    android:tag="sendsms"
+                    android:visibility="gone" />
+                <TextView
+                    android:id="@+id/thran_pay_oppo"
+                    android:layout_width="111dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="7dp"
+                    android:background="@drawable/thran_ppbank_logo"
+                    android:tag="oppo"
+                    android:visibility="gone" />
+                <TextView
+                    android:id="@+id/thran_pay_icbc"
+                    android:layout_width="111dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="7dp"
+                    android:background="@drawable/thran_icbc_logo"
+                    android:tag="icbc"
+                    android:visibility="gone" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/thran_pay_button_close"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/thransdk_box_close" />
+        </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,155 @@
+{"modle":[{"verify":"yes","name":"anzhi","loginUrl":"http://thransdk.lianzhong.com:12287/json/login.action","appsecret":"iQ6F03su0AkDVL4vLN56Ut8n","package":"com.og.unite.third.OGSdkAnzhi","appkey":"1419832043T6EH2vSNm8m6W1R3Ax4o","pay":"yes","login":"yes","loginType":343},
+{
+        "name": "ydbase_sdk",
+            "package": "com.og.unite.charge.third.YdbaseThird",
+            "login": "no",
+            "pay": "yes"
+        },
+ {
+         "name": "mfydbase",
+            "package": "com.og.unite.charge.third.MFYDBASEThird",
+            "appkey":"",
+            "pay": "yes"
+        },
+{
+        "name": "unipay",
+            "package": "com.og.unite.charge.third.UnipayThird",
+	     "appid":"90808134320130507172253104700",
+	     "appkey":"ea4eb49329550caaa1d2",
+             "type":1,
+            "login": "no",
+            "pay": "yes"
+        },
+{"name":"weixin_v3","package":"com.og.unite.charge.third.WeixinThird","pay":"yes","appid":"wxc162c1a78b08fbd1","login":"no"},
+{
+            "name": "thran",
+            "package": "com.og.unite.third.OGSdkLianZhong",
+            "appid": "",
+            "appKey": "",
+            "secretKey": "",
+            "login": "yes",
+            "pay": "no",
+            "verify": "no",
+            "loginUrl": "http://thransdk.lianzhong.com:12287/json/login.action",
+            "gameInfoUrl": "http://172.28.25.212/MSDK/api/GetDdzUserInfo.ashx",
+            "regUrl": "http://thransdk.lianzhong.com:12287/json/regist.action",
+            "smsVerifyUrl":"http://211.154.162.11/smsverify.action",
+            "sendUrl": "http://thransdk.lianzhong.com/json/orderNotify.action",
+            "moUrl":"http://thransdk.lianzhong.com:12287/sdk-thran-server/json/getPhoneMo.action",
+            "baseUrl":"http://thransdk.lianzhong.com:12287/",
+            "gameInfoVer": "1.0"
+
+        },
+{
+        "name": "sendsms",
+            "package": "com.og.unite.charge.third.SendSMSThird",
+			 "sendUrl": "http://thransdk.lianzhong.com/json/orderNotify.action",
+			 "bubUrl": "http://thransdk.lianzhong.com/json/ydbaseLogin.action",
+		    "sendBubUrl": "http://thransdk.lianzhong.com/json/ydbaseSendSMSNotify.action",
+            "login": "no",
+            "pay": "yes"
+        },
+{
+            "name": "chargeUrl",
+	    "package": "url",
+            "chargeUrl": "http://thransdk.lianzhong.com/json/getProductInfo.action",
+            "mmqselfUrl": "http://211.154.162.11/mmq/mmqcharge.action",
+            "patchlogUrl": "http://211.154.162.11/PatchLog.action",
+            "login": "no",
+            "pay": "no"
+        },
+{
+            "name": "changePasswordUrl",
+	    "package": "changePassword",
+            "changePasswordUrl": "http://thransdk.lianzhong.com:12287/updatePassword.action",
+            "login": "no",
+            "pay": "no"
+        },
+{
+            "name": "bindingUrl",
+	    "package": "binding",
+            "bindingUrl": "http://thransdk.lianzhong.com:12287/json/binding.action",
+            "unbindingUrl": "http://thransdk.lianzhong.com:12287/json/unBindForClient.action",
+            "login": "no",
+            "pay": "no"
+        },
+{
+            "name": "payListUrl",
+	    "package": "payList",
+            "payListUrl": "http://thransdk.lianzhong.com/json/getPayDetailL.action",
+            "login": "no",
+            "pay": "no"
+        },
+{
+            "name": "getFilterKeyUrl",
+      "package": "getFilterKey",
+            "getFilterKeyUrl": "http://mfilter.lianzhong.com/api/GetSmsInterceptKeyList.ashx",
+            "login": "no",
+            "pay": "no"
+        },
+	  {
+            "name": "updateUrl",
+	        "package": "update",
+			"channelType":"",
+            "updateUrl": "http://mfiledown.lianzhong.com/api/downLoadFile.ashx",
+			"isDelUrl":"http://thransdk.lianzhong.com/json/isDelClientUpdate.action",
+            "login": "no",
+            "pay": "no"
+        } ,
+					  {
+            "name": "displayNameUrl",
+	    "package": "displayName",
+            "displayNameUrl": "http://thransdk.lianzhong.com:12287/json/updateDisplayNameAndSex.action",
+            "login": "no",
+            "pay": "no"
+        },
+		 {
+            "name": "serverInfoUrl",
+	    "package": "serverInfo",
+            "serverInfoUrl": "http://thransdk.lianzhong.com:12287/json/getServerInfo.action",
+	    "serverInfo_Url": "http://thransdk.lianzhong.com:12287/json/getServerInfo.action",
+            "login": "no",
+            "pay": "no"
+        },
+{
+            "name": "authBindUrl",
+	    "package": "userSet",
+            "userBindUrl": "http://thransdk.lianzhong.com:12287/sdk-thran-server/json/getUserBindSetting.action",
+            "authUrl": "http://thransdk.lianzhong.com:12287/sdk-thran-server/json/authUser.action",
+            "login": "no",
+            "pay": "no"
+        },
+{
+            "name": "identfiyUrl",
+	    "package": "identfiy",
+            "identfiyUrl": "http://thransdk.lianzhong.com:12287/sdk-thran-server/json/mr.action",
+            "login": "no",
+            "pay": "no"
+        },
+{
+            "name": "gameconfig",
+	    "package": "gameconfig",
+            "url": "http://mfilter2.lianzhong.com/api/GetGameConfig.ashx",
+            "login": "no",
+            "pay": "no"
+        },
+{
+ "name": "getui",
+ "isopen":true,
+ "package": "getui"
+},
+{
+            "name": "getShopListUrl",
+	    "package": "getShopList",
+            "getShopListUrl": "http://mfilter2.lianzhong.com/api/GetShopList.ashx",
+            "isopen":true,
+            "login": "no",
+            "pay": "no"
+       },
+{
+ "name": "common",
+ "package": "ccommon",
+ "biLogUrl": "http://211.154.165.206:22919/logmsg",
+ "productinfoUrl": "http://211.154.162.11/getUmpStatusByImsi.action"
+}
+]}

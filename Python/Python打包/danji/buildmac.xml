@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Lord-DJ" default="deploy">
+    <!-- 版本(build版本,不是release版本) -->
+	<property name="version" value="6.5.1" />
+	
+	<!-- 打包环境修改   -->
+	<!-- qa       为测试环境-->
+	<!-- beta     为仿真环境-->
+	<!-- release  为正式环境-->
+
+
+	<property name="environment" value="qa"/>
+	<property name="root.dir" location="../.."/>
+
+	<!-- 渠道号(注意: 请将新的渠道号添加到thran之前)-->
+	<property name="channels" value="thran" />
+	<!-- baidu,kingsoft,wandj,thran1,thran,google,nduo,anzhi,anzhuosc,xiaomi,myapp,mobile,web,open,third,ptbus,coolmart,pjiao,weifeng,getui,91az,baiduzs,sky1,lenovoyx,feiliu,liqu,woniu,phoenix,gamesky,lzy1,lzy2,lzy3,rrw,bsj,mengkai,new1 单机斗地主-->
+	<!-- yingyh,youyi 联众斗地主-->
+	<!-- 环境变量 -->
+	<property environment="env" />
+	<!-- 应用名称 -->
+	<property name="appName" value="${ant.project.name}" />
+	<!-- SDK目录 -->
+	<property name="sdk-folder" value="${sdk.dir}" />
+	<!-- SDK指定平台目录 -->
+	<property name="sdk-platform-folder" value="${sdk-folder}/platforms/android-20" />
+	<!-- SDK中tools目录 -->
+	<property name="sdk-tools" value="${sdk-folder}/tools" />
+	<!-- SDK指定平台中tools目录 -->
+	<property name="sdk-platform-tools" value="${sdk-folder}/platform-tools" />
+	<!-- SDK指定平台中build-tools目录 -->
+	<property name="sdk-build-tools" value="${sdk-folder}/build-tools/20.0.0" />
+
+	<!-- 使用到的批处理文件 -->
+	<property name="aapt" value="${sdk-build-tools}/aapt" />
+	<property name="aidl" value="${sdk-build-tools}/aidl" />
+	<property name="dx" value="${sdk-build-tools}/dx" />
+	<property name="apkbuilder" value="${sdk-tools}/lib/sdklib.jar" />
+	<property name="jarsigner" value="/Library/Java/Home/bin/jarsigner" />
+	<property name="zipalign" value="${sdk-build-tools}/zipalign" />
+
+	<!-- 编译需要的jar; 如果项目使用到地图服务则需要maps.jar -->
+	<property name="android-jar" value="${sdk-platform-folder}/android.jar" />
+	
+	<!-- 指定资源和源码路径 -->
+	<property name="framework-aidl" value="${sdk-platform-folder}/framework.aidl" />
+	<property name="manifest-xml" value="AndroidManifest.xml" />
+	<property name="resource-dir" value="res" />
+	<property name="asset-dir" value="assets" />
+	<property name="srcdir" value="src" />
+	<property name="srcdir-ospath" value="${basedir}/${srcdir}" />
+	<property name="external-lib" value="libs" />
+	<property name="external-lib-ospath" value="${basedir}/${external-lib}" />
+	
+	<!-- 使用第三方的ant包，使ant支持for循环-->
+	<taskdef resource="net/sf/antcontrib/antcontrib.properties">
+		<classpath>
+			<pathelement location="${env.ANT_HOME}/lib/ant-contrib-1.0b3.jar" />
+		</classpath>
+	</taskdef>
+	
+	<property name="channelid" value="" />
+	
+	<!--循环打包 -->
+	<target name="deploy">
+	    <echo>请确保ant-contrib-1.0b3.jar安装于目录:${env.ANT_HOME}</echo>
+	    <delete dir="bin" />
+		<foreach target="modify_manifest" list="${channels}" param="channel" delimiter=", ">
+		</foreach>
+	</target>
+	<target name="modify_manifest">
+	    <var name="channelid" unset="true" />
+		<property name="channelid" value="${channel}" />
+		<!-- 正则匹配替换渠道号 -->
+		<replaceregexp flags="g" byline="false" encoding="UTF-8">
+			<regexp pattern='meta-data android:value="(.*)" android:name="CHANNEL_ID"' />
+			<substitution expression='meta-data android:value="${channelid}" android:name="CHANNEL_ID"' />
+			<fileset dir="" includes="AndroidManifest.xml" />
+		</replaceregexp>
+		<replaceregexp flags="g" byline="false" encoding="UTF-8">
+			<regexp pattern='meta-data android:value="(.*)" android:name="UMENG_CHANNEL"' />
+			<substitution expression='meta-data android:value="${channelid}" android:name="UMENG_CHANNEL"' />
+			<fileset dir="" includes="AndroidManifest.xml" />
+		</replaceregexp>
+		<replaceregexp flags="g" byline="false" encoding="UTF-8">
+			<regexp pattern='meta-data android:value="(.*)" android:name="THRAN_APPCHANNEL"' />
+			<substitution expression='meta-data android:value="${channelid}" android:name="THRAN_APPCHANNEL"' />
+			<fileset dir="" includes="AndroidManifest.xml" />
+		</replaceregexp>
+		<antcall target="zipalign" />
+	</target>
+	
+	<!-- 初始化工作 -->
+	<target name="init">
+	    <echo>替换环境问题</echo>
+  
+	    <copy todir="${basedir}/assets" overwrite="true" file="${basedir}/network config/pro/${environment}/pro"/> 
+		<copy todir="${basedir}/assets/Configs" overwrite="true" file="${basedir}/network config/localURL/${environment}/localURLConfig.json"/>
+		 
+		<copy todir="${basedir}/resource" overwrite="true" file="${basedir}/network config/pro/${environment}/pro"/> 
+		<copy todir="${root.dir}/Resources/iPad/Configs" overwrite="true" file="${basedir}/network config/localURL/${environment}/localURLConfig.json"/> 
+		
+		<echo>目录初始化....</echo>
+		<!-- 生成R文件的相对目录 -->
+		<var name="outdir-gen" value="gen" />
+		<!-- 编译后的文件放置目录 -->
+		<var name="outdir-bin" value="bin/${channelid}" />
+		<!-- 生成class目录 -->
+		<var name="outdir-classes" value="${outdir-bin}" />
+		<var name="outdir-classes-ospath" value="${basedir}/${outdir-classes}" />
+
+		<!-- classes.dex相关变量 -->
+		<var name="dex-file" value="classes.dex" />
+		<var name="dex-path" value="${outdir-bin}/${dex-file}" />
+		<var name="dex-ospath" value="${basedir}/${dex-path}" />
+
+		<!-- 经过aapt生成的资源包文件 -->
+		<var name="resources-package" value="${outdir-bin}/resources.ap_" />
+		<var name="resources-package-ospath" value="${basedir}/${resources-package}" />
+
+		<!-- 未认证apk包 -->
+		<var name="out-unsigned-package" value="${outdir-bin}/${appName}-unsigned.apk" />
+		<var name="out-unsigned-package-ospath" value="${basedir}/${out-unsigned-package}" />
+
+		<!-- 证书文件 -->
+		<var name="keystore-file" value="${basedir}/landlord.keystore" />
+
+		<!-- 已认证apk包 -->
+		<var name="out-signed-package" value="bin/${appName}-${channelid}-${version}" />
+		<var name="out-signed-unaligned-ospath" value="${basedir}/${out-signed-package}-unaligned.apk" />
+		<var name="out-signed-package-ospath" value="${basedir}/${out-signed-package}.apk" />
+		<delete dir="${outdir-bin}" />
+		<mkdir dir="${outdir-bin}" />
+		<mkdir dir="${outdir-classes}" />
+	</target>
+
+	<!-- 根据工程中的资源文件生成R.java文件  -->
+	<target name="gen-R" depends="init">
+		<echo>生成R.java文件....</echo>
+		<exec executable="${aapt}" failonerror="true">
+			<arg value="package" />
+			<arg value="-f" />
+			<arg value="-m" />
+			<arg value="-J" />
+			<arg value="${outdir-gen}" />
+			<arg value="-S" />
+			<arg value="${resource-dir}" />
+			<arg value="-M" />
+			<arg value="${manifest-xml}" />
+			<arg value="-I" />
+			<arg value="${android-jar}" />
+		</exec>
+	</target>
+
+	<!-- 编译aidl文件 -->
+	<target name="aidl" depends="gen-R">
+		<echo>编译aidl文件....</echo>
+		<apply executable="${aidl}" failonerror="true">
+			<!-- 指定预处理文件 -->
+			<arg value="-p${framework-aidl}" />
+			<!-- aidl声明的目录 -->
+			<arg value="-I${srcdir}" />
+			<!-- 目标文件目录 -->
+			<arg value="-o${outdir-gen}" />
+			<!-- 指定哪些文件需要编译 -->
+			<fileset dir="${srcdir}">
+				<include name="**/*.aidl" />
+			</fileset>
+		</apply>
+	</target>
+
+	<!-- 将工程中的java源文件编译成class文件 -->
+	<target name="compile" depends="aidl">
+		<echo>将java源文件编译成class文件....</echo>
+		<javac encoding="utf-8" target="1.5" srcdir="." destdir="${outdir-classes}" includeAntRuntime="false" bootclasspath="${android-jar}" verbose="false">
+			<classpath>
+				<fileset dir="${external-lib}" includes="*.jar" />
+				<fileset dir="${sdk-folder}/tools/support" includes="*.jar" />
+			</classpath>
+		</javac>
+	</target>
+
+
+	<!-- 将.class文件转化成.dex文件 -->
+	<target name="dex" depends="compile">
+		<echo>将.class文件转化成.dex文件....</echo>
+		<exec executable="${dx}" failonerror="true">
+			<arg value="--dex" />
+			<!-- 输出文件 -->
+			<arg value="--output=${dex-ospath}" />
+			<!-- 要生成.dex文件的源classes和libraries -->
+			<arg value="${outdir-classes-ospath}" />
+			<arg value="${external-lib-ospath}" />
+		</exec>
+	</target>
+
+	<!-- 将资源文件放进输出目录 -->
+	<target name="package-res-and-assets">
+		<echo>将资源文件放进输出目录....</echo>
+		<exec executable="${aapt}" failonerror="true">
+			<arg value="package" />
+			<arg value="-f" />
+			<arg value="-M" />
+			<arg value="${manifest-xml}" />
+			<arg value="-S" />
+			<arg value="${resource-dir}" />
+			<arg value="-A" />
+			<arg value="${asset-dir}" />
+			<arg value="-I" />
+			<arg value="${android-jar}" />
+			<arg value="-F" />
+			<arg value="${resources-package}" />
+		</exec>
+	</target>
+
+	<!-- 打包成未签证的apk -->
+	<target name="package" depends="dex, package-res-and-assets">
+		<echo>打包成未签证的apk....</echo>
+		<java classpath="${apkbuilder}" classname="com.android.sdklib.build.ApkBuilderMain">
+			<arg value="${out-unsigned-package-ospath}" />
+			<arg value="-u" />
+			<arg value="-z" />
+			<arg value="${resources-package-ospath}" />
+			<arg value="-f" />
+			<arg value="${dex-ospath}" />
+			<arg value="-rf" />
+			<arg value="${srcdir-ospath}" />
+			<arg value="-rj" />
+			<arg value="${external-lib-ospath}" />
+			<arg value="-nf" />
+			<arg value="${external-lib-ospath}" />
+		</java>
+	</target>
+
+	<!-- 对apk进行签证 -->
+	<target name="jarsigner" depends="package">
+		<echo>打包成已签证的apk....</echo>
+		<exec executable="${jarsigner}" failonerror="true">
+			<arg value="-keystore" />
+			<arg value="${keystore-file}" />
+			<arg value="-storepass" />
+			<arg value="globallink" />
+			<arg value="-keypass" />
+			<arg value="globallink" />
+			<arg value="-signedjar" />
+			<arg value="${out-signed-unaligned-ospath}" />
+			<arg value="${out-unsigned-package-ospath}" />
+			<arg value="landlord.keystore" />
+		</exec>
+	</target>
+
+	<!-- 发布 -->
+	<target name="release" depends="jarsigner">
+		<!-- 删除未签证apk -->
+		<delete file="${out-unsigned-package-ospath}" />
+	</target>
+	
+	<!-- 优化 -->
+	<target name="zipalign" depends="release">
+		<exec executable="${zipalign}" failonerror="true">
+			<arg value="-v" />
+			<arg value="4" />
+			<arg value="${out-signed-unaligned-ospath}" />
+			<arg value="${out-signed-package-ospath}" />
+		</exec>
+		<delete file="${out-signed-unaligned-ospath}" />
+	</target>
+</project>
