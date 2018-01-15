@@ -29,5 +29,8 @@ for index in range(len(hotel_list)):
         # print hotel_tel
 
 for index in range(len(hotel_list)):
-    """"输出酒店信息"""
+    """输出酒店信息"""
     print hotel_list[index]["name"], hotel_list[index]["url"], hotel_list[index]["tel"], '\n'
+
+
+""" 应该将爬到的数据进行输出 输出到Excel """
