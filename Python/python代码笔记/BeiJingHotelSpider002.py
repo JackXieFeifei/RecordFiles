@@ -4,6 +4,7 @@
 import requests
 import re
 from bs4 import BeautifulSoup
+from xlwt import *
 
 res = requests.get('http://hotels.ctrip.com/hotel/beijing1#ctm_ref=hod_hp_sb_lst')
 res.encoding = 'utf-8'
@@ -29,8 +30,36 @@ for index in range(len(hotel_list)):
         # print hotel_tel
 
 for index in range(len(hotel_list)):
-    """输出酒店信息"""
-    print hotel_list[index]["name"], hotel_list[index]["url"], hotel_list[index]["tel"], '\n'
+    """ 输出酒店信息 """
+    # print (hotel_list[index]["name"], hotel_list[index]["url"], hotel_list[index]["tel"])
 
+dic_data = {}
+ldata = []
+""" 将列表装扮成字典 """
+for index in range(len(hotel_list)):
+    dic_data[index] = hotel_list[index]
+
+print (dic_data)
 
 """ 应该将爬到的数据进行输出 输出到Excel """
+file_excel = Workbook(encoding = 'utf-8')
+table_excel = file_excel.add_sheet('sheet02')
+
+keyList = [key for key in dic_data]
+keyList.sort()
+
+for index in keyList:
+    t = [int(index)]
+    t.append(dic_data[index]['name'])
+    t.append(dic_data[index]['url'])
+    t.append(dic_data[index]['tel'])
+    ldata.append(t)
+
+print (ldata)
+# [[1, '张三', 150, 120, 100], [2, '赵六', 23, 66, 90], [3, '李四', 90, 99, 98]]
+
+for i, p in enumerate(ldata):
+    for j, q in enumerate(p):
+        print (i, j, q)
+        table_excel.write(i, j, q)
+file_excel.save('sheet02.xls')
