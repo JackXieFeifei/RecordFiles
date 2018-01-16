@@ -56,7 +56,7 @@ for index in keyList:
     ldata.append(t)
 
 print (ldata)
-# [[1, '张三', 150, 120, 100], [2, '赵六', 23, 66, 90], [3, '李四', 90, 99, 98]]
+# 类似这样的列表 [[1, '张三', 150, 120, 100], [2, '赵六', 23, 66, 90], [3, '李四', 90, 99, 98]]
 
 for i, p in enumerate(ldata):
     for j, q in enumerate(p):
