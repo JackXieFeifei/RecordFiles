@@ -36,10 +36,6 @@ class WriteData2Excel:
             t = [int(index)]
             for i in range(len(self.write_info_list)):
                 t.append(self.dic_data[index][self.write_info_list[i]])
-            # t.append(self.dic_data[index]['name'])
-            # t.append(self.dic_data[index]['url'])
-            # t.append(self.dic_data[index]['tel'])
-            # t.append(self.dic_data[index]['fax'])
             self.list_list_data.append(t)
 
     def save_data(self):
