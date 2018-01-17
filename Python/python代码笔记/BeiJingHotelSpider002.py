@@ -25,9 +25,7 @@ for index in range(len(hotel_list)):
     soup = BeautifulSoup(res.text, 'html.parser')
     for content in soup.select('.htl_room_txt'):
         hotel_tel = content.select('span')[0]['data-real']
-        # re.compile(r'^{\<a} {\<\/a\>}$', hotel_tel)
         hotel_list[index]["tel"] = hotel_tel
-        # print hotel_tel
 
 for index in range(len(hotel_list)):
     """ 输出酒店信息 """
@@ -52,10 +50,15 @@ for index in keyList:
     t = [int(index)]
     t.append(dic_data[index]['name'])
     t.append(dic_data[index]['url'])
-    t.append(dic_data[index]['tel'])
+    contact_types = re.findall("(电话\d{3}-\d{8}|\d{4}-\d{7,8})|(传真\d{3}-\d{8}|\d{4}-\d{7,8})", dic_data[index]['tel'])
+    for contact_type in contact_types:
+        for contact in contact_type:
+            if contact != '':
+                print(contact)
+                t.append(contact)
     ldata.append(t)
 
-print (ldata)
+# print (ldata)
 # 类似这样的列表 [[1, '张三', 150, 120, 100], [2, '赵六', 23, 66, 90], [3, '李四', 90, 99, 98]]
 
 for i, p in enumerate(ldata):
