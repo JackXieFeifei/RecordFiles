@@ -17,7 +17,7 @@ class WriteData2Excel:
     def decorate_dic(self, data_list):
         for index in range(len(data_list)):
             self.dic_data[index] = data_list[index]
-        print (self.dic_data)
+        # print (self.dic_data)
 
     def write_data_to_excel(self):
         self.file_excel = Workbook(encoding='utf-8')
