@@ -15,7 +15,7 @@ def getlink(url):
     file = urllib.request.urlopen(url)
     data = str(file.read())
 
-    # 根据需求构建好链接表达式 
+    # 根据需求构建好链接表达式
     pat = '(https?://[^\s)";]+\.(\w|/)*)'
     link = re.compile(pat).findall(data)
 
