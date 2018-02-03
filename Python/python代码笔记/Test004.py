@@ -3,9 +3,15 @@
 
 import re
 
-patten = "\w+([.+-]\w+)*@\w+([.-]\w+)*\.\w+([.-]\w+)*"
+pattern = "[a-zA-Z]+://[^\s]*[.com|.cn]"
+
+pattern = "\d{4}-\d{7}|\d{3}-\d{8}"
+
+pattern = "\w+([.+-]\w+)*@\w+([.-]\w+)*\.\w+([.-]\w+)*"
+
+pattern = "\w+([.+-]\w+)*@\w+([.-]\w+)*\.\w+([.-]\w+)*"
 string = "<a href='316948714@qq.com.cn'>百度首页</a>"
-result = re.search(patten, string)
+result = re.search(pattern, string)
 print(result)
 
 
