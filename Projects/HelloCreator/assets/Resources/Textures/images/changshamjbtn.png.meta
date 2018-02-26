@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6b4490c3-5899-4da1-975f-59e65edcaa1c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "changshamjbtn": {
+      "ver": "1.0.3",
+      "uuid": "20b17b64-a917-4bc2-b5a2-864e88b30eb1",
+      "rawTextureUuid": "6b4490c3-5899-4da1-975f-59e65edcaa1c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 249,
+      "height": 436,
+      "rawWidth": 253,
+      "rawHeight": 440,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

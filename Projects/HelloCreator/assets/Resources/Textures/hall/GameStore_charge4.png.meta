@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d8824e09-1c1a-4321-8730-9b32b2d4b72d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GameStore_charge4": {
+      "ver": "1.0.3",
+      "uuid": "69e6306f-b8ab-4dca-8b0f-e44eb2baa3c4",
+      "rawTextureUuid": "d8824e09-1c1a-4321-8730-9b32b2d4b72d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 220,
+      "height": 283,
+      "rawWidth": 220,
+      "rawHeight": 283,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

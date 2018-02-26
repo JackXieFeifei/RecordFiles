@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e25c52d3-d533-4141-bbdd-0d795bdca031",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GameHall_store": {
+      "ver": "1.0.3",
+      "uuid": "f3588fce-1792-43ad-a5f6-2c9c296de1c5",
+      "rawTextureUuid": "e25c52d3-d533-4141-bbdd-0d795bdca031",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 103,
+      "height": 43,
+      "rawWidth": 103,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

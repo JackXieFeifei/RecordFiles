@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "44fd6d6c-1bb6-4f81-9a97-d9748917dd7a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GameHall_enterRoom": {
+      "ver": "1.0.3",
+      "uuid": "c7a08a38-5681-493b-a785-d1149bcb0baf",
+      "rawTextureUuid": "44fd6d6c-1bb6-4f81-9a97-d9748917dd7a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 385,
+      "height": 387,
+      "rawWidth": 386,
+      "rawHeight": 388,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
